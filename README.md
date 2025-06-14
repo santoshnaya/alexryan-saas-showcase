@@ -25,7 +25,7 @@ A modern, minimalistic portfolio and SaaS platform for creative professionals. B
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/alexryan-saas-showcase.git
+git clone https://github.com/santoshnaya/alexryan-saas-showcase.git
 cd alexryan-saas-showcase
 ```
 
@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ by [Alex Ryan](https://github.com/yourusername) 
+Built with ❤️ by [Alex Ryan](https://github.com/santoshnaya) 
