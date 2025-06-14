@@ -13,7 +13,7 @@ const projects = [
     title: 'Lab Stellar',
     category: 'Brand Identity',
     year: '2024',
-    image: 'https://images.unsplash.com/photo-1634224143147-d1c5e0bf4373?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/lab-stellar.jpg',
     description: 'Scientific precision meets holistic wellness branding.',
     tags: ['Brand Identity', 'Logo Design', 'Brand Guidelines']
   },
@@ -22,7 +22,7 @@ const projects = [
     title: 'Ark',
     category: 'Logo Design',
     year: '2024',
-    image: 'https://images.unsplash.com/photo-1586973188236-80e7017b4e87?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/ark-logistics.jpg',
     description: 'Forward-thinking logistics company branding.',
     tags: ['Logo Design', 'Brand Identity']
   },
@@ -31,7 +31,7 @@ const projects = [
     title: 'Aloka Event',
     category: 'Event Design',
     year: '2024',
-    image: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/aloka-event.jpg',
     description: 'Music event poster and branding design.',
     tags: ['Event Design', 'Poster Design', 'Branding']
   },
@@ -40,7 +40,7 @@ const projects = [
     title: 'Crypto Dashboard',
     category: 'Web Design',
     year: '2024',
-    image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/crypto-dashboard.jpg',
     description: 'Modern cryptocurrency platform interface.',
     tags: ['Web Design', 'UI/UX', 'Dashboard']
   },
@@ -49,7 +49,7 @@ const projects = [
     title: 'Plotpoint',
     category: 'Brand Identity',
     year: '2024',
-    image: 'https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/plotpoint.jpg',
     description: 'Data visualization platform branding.',
     tags: ['Brand Identity', 'Web Design', 'Data Visualization']
   },
@@ -58,7 +58,7 @@ const projects = [
     title: 'Tango Packaging',
     category: 'Packaging Design',
     year: '2023',
-    image: 'https://images.unsplash.com/photo-1586816001966-79b736744398?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/tango-packaging.jpg',
     description: 'Vibrant product packaging design.',
     tags: ['Packaging Design', 'Product Design']
   },
@@ -67,7 +67,7 @@ const projects = [
     title: 'Gallery Website',
     category: 'Web Design',
     year: '2023',
-    image: 'https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/gallery-website.jpg',
     description: 'Art gallery website with modern interface.',
     tags: ['Web Design', 'UI/UX', 'Gallery']
   },
@@ -76,7 +76,7 @@ const projects = [
     title: 'Data Insights',
     category: 'Dashboard Design',
     year: '2023',
-    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/data-insights.jpg',
     description: 'Analytics dashboard for business intelligence.',
     tags: ['Dashboard Design', 'Data Visualization', 'UI/UX']
   },
@@ -85,7 +85,7 @@ const projects = [
     title: 'Stellar Motion',
     category: 'Motion Graphics',
     year: '2023',
-    image: 'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/stellar-motion.jpg',
     description: 'Animated brand identity and motion graphics.',
     tags: ['Motion Graphics', 'Animation', 'Brand Identity']
   }

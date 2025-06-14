@@ -9,7 +9,7 @@ const blogPosts = [
     id: 'brands-breaking-rules',
     title: 'Brands Breaking All The Rules',
     excerpt: 'In today\'s crowded market, standing out from the noise is essential for small businesses and creative agencies to thrive. Here\'s how to break conventional branding rules and create something memorable.',
-    image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=600&fit=crop',
+    image: '/images/blog/brand-strategy.jpg',
     date: '2024-01-15',
     readTime: '7 min read',
     category: 'Branding'
@@ -18,7 +18,7 @@ const blogPosts = [
     id: 'design-trends-2024',
     title: 'Design Trends That Actually Matter in 2024',
     excerpt: 'Looking beyond the surface-level trends to identify design movements that will have lasting impact on how brands communicate and connect with their audiences.',
-    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=600&fit=crop',
+    image: '/images/blog/design-thinking.jpg',
     date: '2024-01-08',
     readTime: '5 min read',
     category: 'Design'
@@ -27,7 +27,7 @@ const blogPosts = [
     id: 'building-memorable-brands',
     title: 'Building Memorable Brands in a Digital World',
     excerpt: 'The fundamentals of creating brand experiences that stick with audiences across digital touchpoints, from social media to websites and beyond.',
-    image: 'https://images.unsplash.com/photo-1542744094-3a31f272c490?w=800&h=600&fit=crop',
+    image: '/images/blog/remote-collaboration.jpg',
     date: '2024-01-01',
     readTime: '6 min read',
     category: 'Strategy'
@@ -36,7 +36,7 @@ const blogPosts = [
     id: 'color-psychology-branding',
     title: 'The Psychology of Color in Brand Design',
     excerpt: 'Understanding how color choices impact consumer behavior and brand perception, with practical tips for choosing the right palette for your brand.',
-    image: 'https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop',
+    image: '/images/projects/gallery-website.jpg',
     date: '2023-12-20',
     readTime: '8 min read',
     category: 'Design'
@@ -45,7 +45,7 @@ const blogPosts = [
     id: 'typography-that-converts',
     title: 'Typography That Converts: Beyond Pretty Fonts',
     excerpt: 'How strategic typography choices can improve readability, user experience, and ultimately drive better conversion rates for your brand.',
-    image: 'https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=600&fit=crop',
+    image: '/images/blog/typography-trends.jpg',
     date: '2023-12-15',
     readTime: '5 min read',
     category: 'Design'
@@ -54,7 +54,7 @@ const blogPosts = [
     id: 'future-of-brand-identity',
     title: 'The Future of Brand Identity Design',
     excerpt: 'Exploring emerging technologies and changing consumer behaviors that will shape how brands express themselves in the coming decade.',
-    image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop',
+    image: '/images/blog/future-design.jpg',
     date: '2023-12-10',
     readTime: '9 min read',
     category: 'Strategy'

@@ -29,14 +29,14 @@ const testimonials = [
   {
     name: 'Christelle Arouko',
     role: 'Founder at Lab Stellar',
-    image: 'https://images.unsplash.com/photo-1494790108755-2616b612b789?w=100&h=100&fit=crop&crop=face',
+    image: '/images/testimonials/client1.jpg',
     content: "Alex's designs are not just visually breathtaking—they're also incredibly thoughtful and consistent. Every single element feels meticulously planned, ensuring that everything ties together seamlessly, from the colors and typography to the overall aesthetic. It's rare to find someone with such a keen eye for detail and the ability to see the bigger picture at the same time. If you're looking for a designer who is incredibly talented, professional, and a joy to work with, I cannot recommend Alex highly enough. He is truly one of a kind!",
     rating: 5
   },
   {
     name: 'Edwin Zargarian',
     role: 'Founder & CEO at Crypmoji',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face',
+    image: '/images/testimonials/alex-profile.jpg',
     content: "Absolute pleasure to work with Alex! His design work was transformative for us, our entire branding was modernized including our website, collateral materials, multiple logos, and the UI/UX for our mobile and desktop applications. He took his time to learn what we were looking for and delivered exactly what we envisioned almost immediately, requiring very little iteration. Our team and our customers had high praise for the new designs. Highly recommended!!",
     rating: 5
   }

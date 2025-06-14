@@ -9,42 +9,42 @@ const featuredProjects = [
     id: 'lab-stellar',
     title: 'Lab Stellar',
     category: 'Brand Identity',
-    image: 'https://images.unsplash.com/photo-1634224143147-d1c5e0bf4373?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/lab-stellar.jpg',
     description: 'Scientific precision meets holistic wellness branding.'
   },
   {
     id: 'ark-logistics',
     title: 'Ark',
     category: 'Logo Design',
-    image: 'https://images.unsplash.com/photo-1586973188236-80e7017b4e87?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/ark-logistics.jpg',
     description: 'Forward-thinking logistics company branding.'
   },
   {
     id: 'aloka-event',
     title: 'Aloka Event',
     category: 'Event Design',
-    image: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/aloka-event.jpg',
     description: 'Music event poster and branding design.'
   },
   {
     id: 'crypto-ui',
     title: 'Crypto Dashboard',
     category: 'UI/UX Design',
-    image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/crypto-dashboard.jpg',
     description: 'Modern cryptocurrency platform interface.'
   },
   {
     id: 'plotpoint-brand',
     title: 'Plotpoint',
     category: 'Brand Identity',
-    image: 'https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/plotpoint.jpg',
     description: 'Data visualization platform branding.'
   },
   {
     id: 'tango-packaging',
     title: 'Tango Packaging',
     category: 'Packaging Design',
-    image: 'https://images.unsplash.com/photo-1586816001966-79b736744398?w=800&h=600&fit=crop&crop=entropy',
+    image: '/images/projects/tango-packaging.jpg',
     description: 'Vibrant product packaging design.'
   }
 ]
@@ -54,7 +54,7 @@ export default function HomePage() {
     <div className="pt-16">
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
-        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1920&h=1080&fit=crop&crop=entropy')] bg-cover bg-center opacity-10" />
+        <div className="absolute inset-0 bg-[url('/images/hero/hero-bg.jpg')] bg-cover bg-center opacity-10" />
         
         <div className="relative z-10 text-center max-w-6xl mx-auto px-4">
           {/* Availability Banner */}
@@ -69,7 +69,7 @@ export default function HomePage() {
               Alex{' '}
               <div className="relative inline-block">
                 <Image
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face"
+                  src="/images/testimonials/alex-profile.jpg"
                   alt="Alex Ryan"
                   width={120}
                   height={120}
@@ -169,7 +169,7 @@ export default function HomePage() {
             </div>
             <div className="relative">
               <Image
-                src="https://images.unsplash.com/photo-1581291518857-4e27b48ff27e?w=600&h=800&fit=crop"
+                src="/images/hero/featured-work.jpg"
                 alt="Design process"
                 width={600}
                 height={800}
